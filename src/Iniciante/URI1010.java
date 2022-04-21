@@ -2,7 +2,7 @@ package Iniciante;
 
 import java.util.Scanner;
 
-public class URU1010 {
+public class URI1010 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
